@@ -1,1 +1,2 @@
-# -PD3-2
+# PD3-2
+Ričards Voitkevičs DT1-1
